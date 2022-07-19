@@ -1,0 +1,10 @@
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\bin\Debug\netcoreapp3.0\Invoice.Core.deps.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\bin\Debug\netcoreapp3.0\Invoice.Core.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\obj\Debug\netcoreapp3.0\Invoice.Core.csprojAssemblyReference.cache
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\obj\Debug\netcoreapp3.0\Invoice.Core.AssemblyInfoInputs.cache
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\obj\Debug\netcoreapp3.0\Invoice.Core.AssemblyInfo.cs
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\bin\Debug\netcoreapp3.0\Invoice.Core.runtimeconfig.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\bin\Debug\netcoreapp3.0\Invoice.Core.runtimeconfig.dev.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\bin\Debug\netcoreapp3.0\Invoice.Core.pdb
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\obj\Debug\netcoreapp3.0\Invoice.Core.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.Core\obj\Debug\netcoreapp3.0\Invoice.Core.pdb

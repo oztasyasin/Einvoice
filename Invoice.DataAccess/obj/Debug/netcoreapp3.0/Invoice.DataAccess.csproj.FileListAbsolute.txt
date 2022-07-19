@@ -1,0 +1,15 @@
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.DataAccess.deps.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.DataAccess.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.csprojAssemblyReference.cache
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.AssemblyInfo.cs
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.Core.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.Entites.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.DataAccess.runtimeconfig.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.DataAccess.runtimeconfig.dev.json
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.DataAccess.pdb
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.Core.pdb
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\bin\Debug\netcoreapp3.0\Invoice.Entites.pdb
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.csproj.CopyComplete
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.dll
+C:\Users\HP-2\source\repos\Einvoice\Invoice.DataAccess\obj\Debug\netcoreapp3.0\Invoice.DataAccess.pdb
